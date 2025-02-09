@@ -195,7 +195,8 @@ proj_check_cutoff
 It wouldn’t be surprising if a bug slipped in somewhere in the pipeline. If you catch a bug, please [submit a PR](https://github.com/520xyxyzq/3DGS-CD/pulls) or open an issue to let us know.
 
 **NOTE:**
-1. Add `--debug` to [this line](https://github.com/520xyxyzq/3DGS-CD/blob/853b8621ce41715e366b456bebe28b34a8ad0340/scripts/real_gsplat_train.sh#L173) to enable debugging. Also remember to change [this line](https://github.com/520xyxyzq/3DGS-CD/blob/853b8621ce41715e366b456bebe28b34a8ad0340/nerfstudio/scripts/change_det.py#L76) to your debug folder.
+1. Please include your debug information before raising an issue
+2. Add `--debug` to [this line](https://github.com/520xyxyzq/3DGS-CD/blob/853b8621ce41715e366b456bebe28b34a8ad0340/scripts/real_gsplat_train.sh#L173) to enable debugging. Also remember to change [this line](https://github.com/520xyxyzq/3DGS-CD/blob/853b8621ce41715e366b456bebe28b34a8ad0340/nerfstudio/scripts/change_det.py#L76) to your debug folder
 
 
 
