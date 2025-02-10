@@ -204,7 +204,7 @@ It wouldn’t be surprising if a bug slipped in somewhere in the pipeline. If yo
 </details>
 
 
-## Future Directions and Ideas
+## :star: Future Ideas
 <details>
   <summary>Click to expand</summary>
 
@@ -229,5 +229,23 @@ Let's estimate non-rigid object transformations!
 
 </details>
 
+## Acknowledgement
+
+This work is built upon the following outstanding open-source projects:
+
+[NeRFStudio](https://github.com/nerfstudio-project/nerfstudio), [EfficientSAM](https://github.com/yformer/EfficientSAM), [HLoc](https://github.com/cvg/Hierarchical-Localization).
 
 
+## Citation
+
+If our work benefits your research, please consider starring :star: our repo and citing our paper.
+
+```bibTex
+@article{lu20253dgs,
+  title={3DGS-CD: 3D Gaussian Splatting-Based Change Detection for Physical Object Rearrangement},
+  author={Lu, Ziqi and Ye, Jianbo and Leonard, John},
+  journal={IEEE Robotics and Automation Letters},
+  year={2025},
+  publisher={IEEE}
+}
+```
